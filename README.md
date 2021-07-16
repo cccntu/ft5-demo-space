@@ -1,6 +1,6 @@
 ---
-title: FT5 Demo
-emoji: 🏢
+title: FT5 News Summarizer
+emoji: ✍️
 colorFrom: yellow
 colorTo: yellow
 sdk: gradio
